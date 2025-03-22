@@ -1,1 +1,62 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мій Простой Сайт</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        header {
+            background-color: #0044cc;
+            color: white;
+            padding: 20px;
+        }
+
+        main {
+            padding: 20px;
+            background-color: white;
+            margin-top: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Ласкаво просимо на Мій Простой Сайт!</h1>
+    </header>
+
+    <main>
+        <p>Це моя перша веб-сторінка. Тут ви знайдете основні відомості про мене та мої інтереси.</p>
+        <p>Цей сайт створено для демонстрації основ HTML.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Мій Простой Сайт</p>
+    </footer>
+
+</body>
+</html>
 # website
